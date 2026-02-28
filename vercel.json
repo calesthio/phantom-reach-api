@@ -1,9 +1,4 @@
 {
   "framework": "nextjs",
-  "buildCommand": "next build",
-  "env": {
-    "SENDGRID_API_KEY": "@sendgrid-api-key",
-    "APOLLO_API_KEY": "@apollo-api-key",
-    "API_SECRET": "@phantom-reach-api-secret"
-  }
+  "buildCommand": "next build"
 }
